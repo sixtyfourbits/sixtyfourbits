@@ -4,10 +4,7 @@
 
                                       
 <center>Nice to meet you! 👋</center>
-I'm a student who likes programming and inerested in Game Developing.
-
-
-#
+<center>I'm a student who likes programming and inerested in Game Developing.</center>
 
 
 # 🛠 Learning 🛠                                                    

@@ -9,7 +9,7 @@
 <h4 align="center">I'm a student who likes programming and inerested in Game Developing.</h4>
 <br>
 
-<h3 align="center">💻 My Language 💻</h3>
+<h3 align="center">💻 My Main Stage 💻</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 <br>

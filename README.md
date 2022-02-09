@@ -8,7 +8,6 @@
 <h3 align="center">Nice to meet you! 👋</h3>
 <h4 align="center">I'm a student who likes programming and inerested in Game Developing.</h4>
 <br>
-<br>
 
 <h3 align="center">🛠 Learning 🛠</h3>
 <p align="center">

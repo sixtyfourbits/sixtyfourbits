@@ -3,7 +3,7 @@
 
 
                                       
-<h2>Nice to meet you! 👋</h2>
+<h2 align="center"><b>Nice to meet you! 👋</b></h2>
 <h3>I'm a student who likes programming and inerested in Game Developing.</h3>
 
 

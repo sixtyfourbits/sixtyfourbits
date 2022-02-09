@@ -5,20 +5,17 @@
 
 
 
-<p align="center">
-<h2>Nice to meet you! 👋</h2>
-<h3>I'm a student who likes programming and inerested in Game Developing.</h3>
+<h2 align="center">Nice to meet you! 👋</h2>
+<h3 align="center">I'm a student who likes programming and inerested in Game Developing.</h3>
 
 
 
-<p align="center">
-<h2>🛠 Learning 🛠</h2>                                                    
+<h2 align="center">🛠 Learning 🛠</h2>                                                    
 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 
 
 
-<p align="center">
-<h2>🛠 Contact 🛠</h2>
+<h2 align="center">🛠 Contact 🛠</h2>
 
 <img src="https://dcbadge.vercel.app/api/shield/398329496694030346/?compact=true"> <img src="https://img.shields.io/badge/jaehyung545@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">

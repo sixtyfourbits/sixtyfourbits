@@ -3,18 +3,15 @@
 
 
                                       
-<center>Nice to meet you! 👋</center>
-<center>I'm a student who likes programming and inerested in Game Developing.</center>
+<h3>Nice to meet you! 👋</h3>
+<h1>I'm a student who likes programming and inerested in Game Developing.</h1>
 
 
-# 🛠 Learning 🛠                                                    
+<h4>🛠 Learning 🛠</h4>                                                    
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-
-#
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 
 
-# 🛠 Contact 🛠
+<h4>🛠 Contact 🛠</h4>
 
-![](https://dcbadge.vercel.app/api/shield/398329496694030346/?compact=true) ![jaehyung545@gmail.com](https://img.shields.io/badge/jaehyung545@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<img src="https://dcbadge.vercel.app/api/shield/398329496694030346/?compact=true"><img src="https://img.shields.io/badge/jaehyung545@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">

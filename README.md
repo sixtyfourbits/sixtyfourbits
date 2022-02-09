@@ -1,13 +1,15 @@
-**I'm a Student Who Likes Programming**
 
-- 🌱 I’m currently learning C++, C#, Java 
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaehyung545@gmail.com)](mailto:jaehyung545@gmail.com)   
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sixtyfourbits)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/coder_jaehyung/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://github.com/sixtyfourbits)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>](https://github.com/sixtyfourbits)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg' alt='unity' height='40'>](https://github.com/sixtyfourbits)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:5C258D,100:4286f4&fontColor=ffff&height=300&section=header&textBg=1234&text=sixtyfourbits&fontSize=87)
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=buttsmell)       ![Park Jaehyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=sixtyfourbits&show_icons=true&border_radius=10&bg_color=DEC,5C258D,4286f4&text_color=ffff&hide_title=true)
 
 
+                                      
+                                        ***Nice to meet you! 👋***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sixtyfourbits)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sixtyfourbits&show_icons=true)  
+                                           🛠 Learning 🛠                                                    
+             ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
+
+                                           ***🛠 Contact 🛠***
+          ![](https://dcbadge.vercel.app/api/shield/398329496694030346/?compact=true) ![jaehyung545@gmail.com](https://img.shields.io/badge/jaehyung545@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)

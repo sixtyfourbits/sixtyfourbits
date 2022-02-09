@@ -4,7 +4,7 @@
 
 
                                       
-## Nice to meet you! 👋
+<h3 align="center"><b>Nice to meet you! 👋</b></h3>
 I'm a student who likes programming and inerested in Game Developing.
 
 

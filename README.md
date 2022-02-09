@@ -4,10 +4,10 @@
 
 
                                       
-##Nice to meet you! 👋
+## Nice to meet you! 👋
 
 
-#🛠 Learning 🛠                                                    
+# 🛠 Learning 🛠                                                    
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
@@ -15,6 +15,6 @@
 
 
 
-#🛠 Contact 🛠
+# 🛠 Learning 🛠
 
 ![](https://dcbadge.vercel.app/api/shield/398329496694030346/?compact=true) ![jaehyung545@gmail.com](https://img.shields.io/badge/jaehyung545@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)

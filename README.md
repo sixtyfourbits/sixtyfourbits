@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C258D,100:4286f4&fontColor=ffff&height=300&section=header&textBg=1234&text=sixtyfourbits&fontSize=87" alt="My Image">
+<align="center" img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C258D,100:4286f4&fontColor=ffff&height=300&section=header&textBg=1234&text=sixtyfourbits&fontSize=87">
   ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=buttsmell)        ![Park Jaehyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=sixtyfourbits&show_icons=true&border_radius=10&bg_color=DEC,5C258D,4286f4&text_color=ffff&hide_title=true)
 
 

@@ -6,7 +6,7 @@
 <br>
 
 <h3 align="center">Nice to meet you! 👋</h3>
-<h4 align="center">I'm a student who likes programming and inerested in game developing.</h4>
+<h4 align="center">I'm a student who likes programming and interested in game developing.</h4>
 <br>
 
 <h3 align="center">💻 My Main Stage 💻</h3>

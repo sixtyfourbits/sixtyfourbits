@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C258D,100:4286f4&fontColor=ffff&height=300&section=header&textBg=1234&text=sixtyfourbits&fontSize=87">
-<[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=buttsmell)](https://solved.ac/buttsmell)>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=buttsmell)](https://solved.ac/buttsmell)
 <br>
 <br>
 <br>

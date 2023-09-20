@@ -19,5 +19,6 @@
 <p align="center">
 <img src="https://dcbadge.vercel.app/api/shield/398329496694030346/?compact=true"> <img src="https://img.shields.io/badge/jaehyung545@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
-
-![koi logo]((https://koi.or.kr/assets/images/koi_logo_default.png)#style=max-width:50px;vertical-align:middle; "KOI LOGO") KOI 2차 대회 중등부 은상 (27위)
+ <br>
+ <br>
+ **🥈 KOI 2차 대회 중등부 은상 (27위)**
